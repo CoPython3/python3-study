@@ -14,6 +14,8 @@ print(p1)
 #print(name)
 
 print(10/3,10//3,10%3)
+
+
 '''
 print('1024*768=',1024*768)
 
@@ -24,6 +26,7 @@ if a > 1000:
     print(a)
 else:
     print(-a)
+
 
 ###python基础-->数据类型和变量【主卧】
 #http://www.jb51.net/article/50511.htm  import的re模块
